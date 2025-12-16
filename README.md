@@ -9,4 +9,4 @@
 - Require JUCE Library Code and JUCE Modules to run the code
 - Visit JUCE: https://juce.com/
 
-![synthSevenT](https://github.com/user-attachments/assets/e0bafb1b-1027-482a-bbd2-73acc224b57d)
+<img width="1018" height="784" alt="seventvst3" src="https://github.com/user-attachments/assets/811ab380-4edf-4e83-a8df-3b244ccf35d9" />
