@@ -1,9 +1,9 @@
 # Simple VST
-- One oscillator (sine, saw, square)
+- One oscillator (sine, saw, triangle, pulse, half-pulse, quarter-pulse, triangle saw)
+- 8 Voices (fixed)
 - ADSR
 - Frequency Modulation
-- Filter (Low Pass, By Pass, High Pass)
-- Only has one voice
+- Filter (Low Pass, Band Pass, High Pass, By Pass)
 
 - Created using JUCE Framework
 - Require JUCE Library Code and JUCE Modules to run the code
